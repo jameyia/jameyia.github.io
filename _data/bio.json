@@ -1,13 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Jameyia Shamia",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
-    "location": {
+    "picture": "https://jameyia.github.io/images/jssquare.jpg",
+    "email": "jameyia@hawaii.edu",
+    "phone": "",
+    "website": "https://jameyia.github.io",
+    "summary": "I am studying Computer Engineering at the University Hawai'i of Manoa. I plan to start my own companies showcasing new electronic products.": {
       "address": "",
       "postalCode": "96822",
       "city": "Honolulu",
@@ -17,67 +16,61 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "jameyia",
+        "url": "http://github.com/jameyia"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "jameyiashamia",
+        "url": "http://linkedin.com/in/jameyia"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Embedded Systems",
       "keywords": [
         "Arduino",
-        "TI MSP430"
+        "PIC",
+        "Computer Hardware"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Artificial Intelligence",
       "keywords": [
+        "Autonomous Vehicles",
+        "Vision Guided Robots"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Mobile Applications",
       "keywords": [
+        "Andriod",
+        "iOS"
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Computer Languages",
       "level": "",
       "keywords": [
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "HTML",
+        "CSS",
+        "Javascript"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Professional Software",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "MATLAB",
+        "EagleCAD",
+        "Pspice",
+        "Xilinx"
       ]
     }
   ],
