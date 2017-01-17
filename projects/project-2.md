@@ -23,6 +23,6 @@ After conducting some initial experiements, I built an apparatus to simulat what
 
 <img class ="ui medium right floated rounded image" src="../images/apparatus.jpg">
 
-The source was pulsed at a specific frequency to eliminate the risk of ambient and other resonant light source intefering with our measurements. Four bandpass filters were designed and built in hardware for each sensor, and the mapping algorithm was implemented in Arduino. The source code is available on [GitHub](github.com/jameyia/camera_mount).
+The source was pulsed at a specific frequency to eliminate the risk of ambient and other resonant light source intefering with our measurements. Four bandpass filters were designed and built in hardware for each sensor, and the mapping algorithm was implemented in Arduino. The source code is available on <a href="http://www.github.com/jameyia/camera_mount">GitHub</a>.
 
 Overall, the apparatus was able to track the source reliably for short distances, but it did not have the range I was expecting. The device worked reliably within a 1 foot radius from the source. After that, you could not detect the source anymore. I can see why my professor went with the other technology, but it was a good attempt and perhaps a challenge to take on again another day.
