@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: Micro Mouse
-permalink: 
+permalink: projects/micromouse
 date: 2015
 labels:
   - Robotics
