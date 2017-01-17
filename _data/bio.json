@@ -77,81 +77,95 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawai'i at Manoa",
+      "area": "Computer Engineering Exp May 2017",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.33",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Kaua'i Community College",
+      "area": "",
+      "studyType": "",
+      "startDate": "2011-09-01",
+      "endDate": "2013-05-01",
+      "gpa": "4.00",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
+      "company": "Duke's Limousince Inc",
+      "position": "Chauffeur",
+      "website": "www.dukeslimo.com",
+      "startDate": "2016-09-01",
+      "endDate": "Present",
+      "summary": "Professional driver of multiple vehicles for the company",
+      "highlights": [
+        "Transport high profile clientele and celebrities safely and efficiently to various destinations",
+        "Trained to operate luxury SUVs, Mercedes Sprinter vans, and stretch limousines"
+      ]
+    },
+    {
+      "company": "Skinny Mike's Hawaiian Ice Cream",
       "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "website": "www.skinnymikesicecream.com",
+      "startDate": "2015-06-01",
+      "endDate": "2015-07-31",
+      "summary": "Taught myself how to build a website using a book from the library and the internet",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Worked with business owner to come up with the design, layout, and functionality of the website",
+        "Obtained skills necessary to complete the customer's demands through self research"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Kaua'i Community College",
+      "position": "STEM Mentor",
+      "website": "https://sites.google.com/a/hawaii.edu/stem/peer-mentors",
+      "startDate": "2013-11-01",
+      "endDate": "2015-11-01",
+      "summary": "Mentored students through in person meetings, email, and panel discussions about transferring to UH Manoa from Kaua'i Comunity College (KCC)",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "One of siX KCC alumni chosen to form a panel for prospective KCC transfer students",
+        "Answer questions about application process, student life, and career opportunities to prospective students"
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
+  "volunteer": [],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Eta Kappa Nu (HKN) Delta Omega Chapter Membership",
+      "date": "2015-Present",
+      "awarder": "Eta Kappa Nu",
+      "summary": "Met academic qualifications and succeed in completing one year of volunteer and charitable work to earn membership"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List",
+      "date": "Multiple Semesters",
+      "awarder": "University of Hawai'i at Manoa",
+      "summary": "Met academic qualifications to be awarded the Dean's List multiple times as an undergraduate"
+    },
+    {
+      "title": "AFCEA Hawai'i Scholarship",
+      "date": "2014 - 2016",
+      "awarder": "AFCEA Hawai'i",
+      "summary": "Awarded AFCEA Hawai'i scholarship due to my academic and professional success"
+    },
+    {
+      "title": "Phi Theta Kappa Membership",
+      "date": "2012-2013",
+      "awarder": "Phi Theta Kappa",
+      "summary": "Awarded Phi Theta Kappa membership due to my academic status"
+    },
+    {
+      "title": "Dean's List",
+      "date": "2012-2013",
+      "awarder": "Kaua'i Community College",
+      "summary": "Awarded Dean's List due to my academic status"
     }
   ],
   "references": [
