@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/Mouse.jpg
 title: Micro Mouse
 permalink: projects/micromouse
 date: 2015
@@ -14,9 +14,9 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
+  <img class="ui image" src="../images/Chassis_underside.jpg">
+  <img class="ui image" src="../images/PCB%20I%20Top.png">
+  <img class="ui image" src="../images/PCB%20II%20Top.png">
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
