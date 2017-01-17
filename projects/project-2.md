@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/source.jpg
 title: Arduino IR Tracking Camera Mount
 permalink: projects/camera-mount
 date: 2014
@@ -28,11 +28,3 @@ The source was pulsed at a specific frequency to eliminate the risk of ambient a
 Overall, the apparatus was able to track the source reliably for short distances, but it did not have the range I was expecting. The device worked reliably within a 1 foot radius from the source. After that, you could not detect the source anymore. I can see why my professor went with the other technology, but it was a good attempt and perhaps a challenge to take on again another day.
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
-
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
