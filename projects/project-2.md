@@ -17,11 +17,11 @@ His apparatus consisted of a large plastic button that used radio waves as a mea
 
 I experimented with using just two infra red sensors and a single infra red source to get a gauge on how accurate a two dimensional tracker could be, and how range the sensor could track at.
 
-<img class="ui medium right floated rounded image" src="../images/two_sensors.jpg">
+<img src="../images/two_sensors.jpg">
 
 After conducting some initial experiements, I built an apparatus to simulat what a pan and tilt mechanism for a small camera would be. This time, we tracked along two axiis: one horizontal pan, and one vertical tilt. We used four infra red sensors and one infra red source.
 
-<img class ="ui medium right floated rounded image" src="../images/apparatus.jpg">
+<img src="../images/apparatus.jpg">
 
 The source was pulsed at a specific frequency to eliminate the risk of ambient and other resonant light source intefering with our measurements. Four bandpass filters were designed and built in hardware for each sensor, and the mapping algorithm was implemented in Arduino. The source code is available on <a href="http://www.github.com/jameyia/camera_mount">GitHub</a>.
 
