@@ -22,3 +22,4 @@ The practice WODs were helpful but also way too easy. I do enjoy watching how ou
 
 I look forward to the rest of this class. I think Javascript is a good language for learning, but not as a introductory langauge. I like that C is still very much associated with hardware, and you discover the core principles of computing that way. Javascript is a luxury, but you don't understand how much of a luxury that is until you have learned C.
 
+The class style, along with the help from the TA, should ensure a smooth ride to software engineering proficiency. Javascript is a good language for the not-so-novice programer!
