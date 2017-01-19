@@ -10,7 +10,7 @@ labels:
   - Microchip
   - PIC
   - C
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: Our team, Un-Farad-Vantage, competed in the Spring 2015 microcmouse competition for our X96 projects.
 ---
 
 <div class="ui small rounded images">
