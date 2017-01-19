@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
-date: 2015-08-26
+title: Reflecting on Javascript
+date: 2017-01-19
 labels:
   - Software Engineering
   - Learning
