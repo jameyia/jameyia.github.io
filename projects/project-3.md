@@ -16,7 +16,7 @@ summary: Learned how to operate the LPKF S62 Circuit Board Plotter. Created a tu
 </div>
 
 
-This was the project for my Electronics (ETRO) 199V Special Studies class taken at Kaua'i Community College (KCC) in the Spring of 2013 (my last semester there).
+This was the project for my Electronics (ETRO) 199V Projects in Electronics class taken at Kaua'i Community College (KCC) in the Spring of 2013 (my last semester there).
 
 In the electronics building, we had a circuit board plotter capable of producing custome circuit boards for projects, but it nobody had figured out how to set it up fully. It was mostly assembled but people tried to and failed to get it to work. As my instructor and I were discussing what possible projects I could do for this 1 credit class, she pointed this problem out to me and asked if I could take on the challenge.
 
