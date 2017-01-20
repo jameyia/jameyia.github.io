@@ -12,7 +12,7 @@ labels:
 summary: Learned how to operate the LPKF S62 Circuit Board Plotter. Created a tutorial to teach both faculty and students to use the machine
 ---
 
-<div class="ui embed" data-source="youtube" data-id="NrLFIpm0wps" >
+<div class="ui embed" data-source="youtube" data-id="5Gv_D5qUxiY" >
 </div>
 
 This was the project for my Electronics (ETRO) 199V Special Studies class taken at Kaua'i Community College (KCC) in the Spring of 2013 (my last semester there).
