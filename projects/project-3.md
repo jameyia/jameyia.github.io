@@ -11,6 +11,10 @@ labels:
   - PCB Design
 summary: Learned how to operate the LPKF S62 Circuit Board Plotter. Created a tutorial to teach both faculty and students to use the machine
 ---
+
+<div class="ui embed" data-source="youtube" data-id="NrLFIpm0wps" >
+</div>
+
 This was the project for my Electronics (ETRO) 199V Special Studies class taken at Kaua'i Community College (KCC) in the Spring of 2013 (my last semester there).
 
 In the electronics building, we had a circuit board plotter capable of producing custome circuit boards for projects, but it nobody had figured out how to set it up fully. It was mostly assembled but people tried to and failed to get it to work. As my instructor and I were discussing what possible projects I could do for this 1 credit class, she pointed this problem out to me and asked if I could take on the challenge.
@@ -24,7 +28,5 @@ I read the manual and figured out how to install the software, what settings wer
 Overall, the project went without many problems. It was somewhat daunting to have no real mentorship or ways to get help all while having a strict deadline. However, I had other people's past experience to rely on and I new I would always try something unique. The most difficult part of the process would be understanding the manual or learning about new terminology, as I was going into this with no experience. Luckily I could research other terms online and that helped to relate what I learned online to the manual.
 
 I got feedback from the instructor later and she said it was very helpful in teaching other students to use the device. It is easy to have a video that can just share using a URL than having to print out an entire document.
-
-If you would like to see the video, it is available <a href="https://www.youtube.com/watch?v=5Gv_D5qUxiY">here</a> for your viewing.
 
 This experienced help to prepare me for the future as employers are always looking for people with special skills and who are able to figure things out. I am more confident now in tackling any project involving a PCB machine, an I will be happy to help others learn that same skill in the future.
