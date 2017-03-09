@@ -24,5 +24,17 @@ Our implementation would be a web application that would rely on user observatio
 
 Also, the point of having a login serves to hold users accountable and identify who is making the most updates. If there are officials attempting to fool or give the system false information, it can be traced back to them.
 
-# Concept
+The physical look of the website, after passing through the login sceen, would be to select an area on a map to where the last parking personnel was spotted and at one time. That information will be added to the record. The user can then log out and continue their work.
+
+# Mockup Page Ideas
+
+Only one page. An interactive app to select location and time of last sighting and a submit button
+
+# Base Case Ideas
+
+User logs in, selects location on map and time of sighting. Clicks submit. Logs out.
+
+# Beyond the Basics
+
+Can tap into security cameras for automated reporting and upkeep
 
