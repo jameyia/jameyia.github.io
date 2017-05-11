@@ -12,10 +12,12 @@ labels:
   - Coding
   - Web Developent
   - Teamwork
-summary: A joint development effor to create an interactive web application as the final project for the ICS 314 Software Engineering course.
+summary: A joint development effort to create an interactive web application as the final project for the ICS 314 Software Engineering course.
 ---
 
 For our final project in the ICS 314 software engineering course, we had to create a web based application around an idea that would help members of the UH community. Our require included using the meteor framework and UH login system to support the application.
+
+We decided on a project that would create an application that would allow students and administrators to create, share, join, and edit clubs on a website that is centered around the UH community.
 
 Our team consisted of three members. Myself, HaiLing Li, and Christian Leandro. We each used GitHub to facilitate what objectives would be carried out by which person by seperating each task into different issues and using GitHub's branching feature to make our work more organized.
 
