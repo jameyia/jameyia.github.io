@@ -19,6 +19,8 @@ For our final project in the ICS 314 software engineering course, we had to crea
 
 We decided on a project that would create an application that would allow students and administrators to create, share, join, and edit clubs on a website that is centered around the UH community.
 
+<img style="max-width: 100%" src="../images/browse-club-updated.png">
+
 Our team consisted of three members. Myself, HaiLing Li, and Christian Leandro. We each used GitHub to facilitate what objectives would be carried out by which person by seperating each task into different issues and using GitHub's branching feature to make our work more organized.
 
 The first order of business was to get the basic functionality and mockup pages working for Milestone 1. This included creating the landing and login pages.
